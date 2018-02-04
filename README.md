@@ -9,5 +9,5 @@ Being new to coding I faced a number of issues that cost me a lot of time. On th
 Once I installed Spyder on a personal laptop things started to shape-up though and long nights started to pay off.
 
 # Summary
-I learned during the module that the coffee consumption expands exponentially with the progression of the module. Luckily I did not take up smoking again - even though the temptation was omni-present
+I learned during the module that the coffee consumption expands exponentially with the progression of the module. Luckily I did not take up smoking again - even though the temptation was omni-present.
 It would be fair to say that the module was, while extremely valuable, a quite sobering experience.
