@@ -36,6 +36,7 @@ agents = []
 # - number of agents
 # - number of iterations (moves)
 # - size of neighbourhood
+# the parameters can be changed as required
 num_of_agents = 20
 num_of_iterations = 250
 neighbourhood = 20
